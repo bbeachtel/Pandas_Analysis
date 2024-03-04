@@ -1,0 +1,8 @@
+CITY SCHOOLS ANALYSIS SUMMARY:
+	According to the data, "School Type" and "School Size" seem to be the biggest factors
+	affecting overall passing rates.
+
+CONCLUSIONS:
+	1. Charter Schools outperformed District Schools with a passing rate nearly double that 	of District Schools
+
+	2. There is a trend of larger schools having lower passing rates than smaller schools.
